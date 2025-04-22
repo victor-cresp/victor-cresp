@@ -1,9 +1,15 @@
-## Hi there 👋
-# ola a todos
-teste 
+# Victor Rodrigues 👋
+Rio de Janeiro, Brazil
+## Estudante de Ciências da Computação/ Computer Science Student
 
-* teste *
-** teste **
+Olá. Atualmente vou usar meu github para fins didáticos, projetos pessoais e profissionais.
+Hi there. I'm using my github for academic, professional and personal projects.
+
+
+
+
+
+
 <!--
 **victor-cresp/victor-cresp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
