@@ -2,7 +2,7 @@
 Rio de Janeiro, Brazil
 ## Estudante de Ciências da Computação/ Computer Science Student
 
-Olá. Atualmente vou usar meu github para fins didáticos, projetos pessoais e profissionais.
+Olá. Atualmente vou usar meu github para fins didáticos, projetos pessoais e profissionais. <br>
 Hi there. I'm using my github for academic, professional and personal projects.
 
 
